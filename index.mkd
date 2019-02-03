@@ -1,3 +1,103 @@
-# Testing
+# Hoosier Online Keyforge League (HOKL)
 
-Does _this_ work?
+_Let's call this a rough draft. If you're reading this, it's because 1) I'm hoping you'll play(!), 2) I'd like to hear your feedback, now and throughout our first league season._
+
+[Registration now open, I guess!](https://goo.gl/forms/oQcruBG01WpwAdKY2)
+
+## What
+
+This is a "tournament" (round robin or Swiss, depending on the number of entrants) that will take place over the course of 8 weeks. All games will be played online at [thecrucible.online](thecrucible.online). Competitors will work with their opponents each round to schedule a convenient time to play using Discord (or Slack, email, SMS, raven—whatever). Reults will be reported in Discord. At the end of the season, we'll declare a winner, and that winner will receive a prize package. (Prizes TBD.)
+
+(FYI: the commissioner, as of now, is definitely entering this league. If it becomes a problem I'll eliminate him. I mean, from the competition. Or I'll beg someone else to be commissioner.)
+
+## Why
+
+The point of this is to get to play KeyForge with others, see different decks and play-styles, and help to further establish a local KeyForge community—even for those of us who find it difficult to get out to a store for a tournament. In other words, I hope this is a casual, fun group, bereft of the worst of Spike behavior, but allowing plenty of the best of Spike behavior. 🙂
+
+## When
+
+As soon as I can get 8 or so people on board, information recorded, decks verified, and the bracket prepared. I hope to get it started before mid-February.
+
+## Other details
+
+### Format
+
+Old fashioned, one-game match using the Archon format. From [KeyForge tournament rules](http://kop-cdn.keyforgegame.com/filer_public/c1/ea/c1eaa484-cdf3-4224-90da-552b5b608e7d/kf_formats_and_variants.pdf):
+
+> In the Archon format, each player brings a deck to the tournament. This deck must be an official, unaltered KeyForge Archon Deck that the player either obtained ahead of time or bought at the event itself. 
+
+### Scheduling your game
+
+Each Monday morning, we'll post new pairings. You'll have until the follow Sunday at 11:59PM Eastern (U.S.) Time to complete your match so that the next week's pairings can be calculated and posted. Unreported matches will be entered as a draw, though we'll make an effort to track the competitors down first.
+
+Once pairings are active, the players should contact one another via Discord to arrange the match, unless the players have arranged another way to communicate. (NBD, but we'll provide a Discord server for convenience's sake.)
+
+This 1 match per week schedule will continue until all rounds are completed (and there's a clear winner). 
+
+### Setting up your game:
+
+At the agreed upon time:
+- Create a **Competitive** game 
+- Name the room "Hello [Your Opponent's Name]" 
+- Set a password to 'HOKL'. 
+- **Allow** spectators 
+- **Hide** your hands 
+
+### Reporting Your Results
+
+The player defeated in the round should report the results—not to rub salt in the wound, but because it's pretty unlikely the person reporting a loss is trying to pull a fast one. To report the results, take a screenshot of your whole screen, preferably with date and time showing in your operating system's tool bar, if possible. It's recommended that both competitors take that screenshot, though. :-) Post it in the results reporting channel in Discord. 
+   
+### The Crucible
+
+#### Manual Mode
+
+Misclicks happen. They suck. Sometimes The Crucible has bugs. Bugs happen. They also suck. Thankfully, manual mode can allow us to back out of these things once in a while. You know what else sucks? Abusing manual mode.
+
+Each player may have 3 manual mode activation per game, with no more than 2 actions being undone for each manual mode activation.
+   
+### Challonge
+
+http://www.challonge.com/
+
+We will be using Challonge to maintain the bracket. It'll be best if we can keep the Discord & The Crucible & Challonge usernames straight. Here are some instructions for changing your Challonge username to match your Crucible username that I grabbed from the KeyForge Events Discord:
+
+After you signup for the event in Challonge, if your Crucible name differs from Challonge, please follow these instructions to UPDATE your Challonge name in the event as soon as you enter. https://feedback.challonge.com/knowledgebase/articles/292861-using-a-custom-tournament-name 
+
+
+### Archon Deck Validation:
+
+Each player must upload a deck verification to the commissioner prior to the first match of a league, and _use that deck for the entire season_. Send a picture with your identity card, decklist side up (cover the QR code!), and something showing your name and today's date. (It's common to write your username and the date on a piece of paper, put the deck on the piece of paper so the name/date still shows, then snap that pic).
+
+Here's an example:
+
+![](https://www.dropbox.com/s/stwroypao6xz158/2019-02-02%2000.16.08.jpg?raw=1)
+
+### Chains:
+
+We want this league to be fun. To remain fun, limiting the ability for one deck to dominate season after season is paramount. Official KeyForge events will use chains bound to decks that have won tournaments. We will keep track of chains imposed by KeyForge on decks entered into our league, and also impose those restrictions.
+
+In addition, if a deck wins a season, that deck will received additional, _exclusive_ HOKL chains—4, to be exact. Whoa! Isn't that _special_?
+
+So, let's say you have a double Four Horseman deck that also has Logos & Untamed Library Access / Phase Shift / Nepenthe Seed combo. You've won 3 local tournaments, your deck has like 12 chains, Mr. T style. They're weighing you down, though. You see this wee league and think, "Oh finally I can unleash this bad boy again, Infinite Card Draw of the Apocalypse Time!" Well, you can't. I mean, you can, but we're going to check those chains, too. And if you win a season, you'll have 16 chains for the next one (assuming you enter the same deck). Whoa! Crazy! I heard there's one dude who has only got 2Chainz!
+
+To summarize: To keep in line with official Chainbound events, any Archon win will receive 4 (four) chains in addition to any official chains it may have (on keyforgegame.com from official Chainbound events). Winning additional events with the same deck will continue to accrue 4 (four) chains, as it would in official Chainbound events.
+
+---
+
+## Code of Conduct
+
+### The Quick Version
+
+Our events/community/communication channels are dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or House of choice. We do not tolerate harassment of event participants in any form. Sexual language and imagery is not appropriate at the event. Event participants violating these rules may be sanctioned or expelled from the event without a refund at the discretion of the event organisers.
+
+### The Less Quick Version
+
+Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, House choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
+
+Participants asked to stop any harassing behavior are expected to comply immediately.
+
+If a participant engages in harassing behavior, the organizing members may take any action they deem appropriate, including warning the offender or expulsion from the event/slack org.
+
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact an organizing member immediately.
+
+We will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event/communication channel/etc. We value your participation!
