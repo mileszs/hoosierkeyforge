@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+section #title {
+  margin: 0;
+}
+
 #header nav {
   background: transparent;
   
