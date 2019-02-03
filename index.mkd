@@ -4,7 +4,7 @@ Please register by **Wednesday, February 13th.**
 
 ## What
 
-This is a "tournament" (round robin or Swiss, depending on the number of entrants) that will take place over the course of 8 weeks. All games will be played online at [thecrucible.online](thecrucible.online). Competitors will work with their opponents each round to schedule a convenient time to play using Discord (or Slack, email, SMS, raven—whatever). Reults will be reported in Discord. At the end of the season, we'll declare a winner, and that winner will receive a prize package. (Prizes TBD.)
+This is a "tournament" (round robin or Swiss, depending on the number of entrants) that will take place over the course of 8 weeks. All games will be played online at [thecrucible.online](thecrucible.online). Competitors will work with their opponents each round to schedule a convenient time to play using Discord (or Slack, email, SMS, raven—whatever). Results will be reported in Discord. At the end of the season, we'll declare a winner, and that winner will receive a prize package. (Prizes TBD.)
 
 (FYI: the commissioner, as of now, is definitely entering this league. If it becomes a problem I'll eliminate him. I mean, from the competition. Or I'll beg someone else to be commissioner.)
 
@@ -18,6 +18,12 @@ As soon as I can get 8 or so people on board, information recorded, decks verifi
 
 ## Other details
 
+### Discord Server Invitation
+
+[Click here to join the Discord Server!](https://discord.gg/G4AfPDb)
+
+Discord is a free to use communication platform. We'll be using a public Discord server to help communicate some things. Furthermore, if you wish to be a competitor, we are asking for submission to be posted in the Discord Server. It shouldn't take long to get signed up. There's a web client and a desktop application, so it should be rather simple.
+
 ### Format
 
 Old fashioned, one-game match using the Archon format. From [KeyForge tournament rules](http://kop-cdn.keyforgegame.com/filer_public/c1/ea/c1eaa484-cdf3-4224-90da-552b5b608e7d/kf_formats_and_variants.pdf):
@@ -28,7 +34,7 @@ Old fashioned, one-game match using the Archon format. From [KeyForge tournament
 
 Each Monday morning, we'll post new pairings. You'll have until the follow Sunday at 11:59PM Eastern (U.S.) Time to complete your match so that the next week's pairings can be calculated and posted. Unreported matches will be entered as a draw, though we'll make an effort to track the competitors down first.
 
-Once pairings are active, the players should contact one another via Discord to arrange the match, unless the players have arranged another way to communicate. (NBD, but we'll provide a Discord server for convenience's sake.)
+Once pairings are active, the players should contact one another via Discord to arrange the match, unless the players have arranged another way to communicate. (NBD, but we'll provide a Discord server for convenience's sake.) [Click here to join the Discord Server!](https://discord.gg/G4AfPDb)
 
 This 1 match per week schedule will continue until all rounds are completed (and there's a clear winner). 
 
