@@ -2,3 +2,12 @@
 ---
 
 @import "{{ site.theme }}";
+
+#header nav {
+  background: transparent;
+  
+  li a {
+    border: none;
+    box-shadow: none;
+  }
+}
